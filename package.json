@@ -1,0 +1,28 @@
+{
+	"private": true,
+	"name": "walk-of-care-ics-service",
+	"description": "Serve an .ics file for Walk of Care events.",
+	"version": "1.0.0",
+	"main": "index.js",
+	"keywords": [
+		"walk of care",
+		"health care",
+		"germany",
+		"ics",
+		"ical",
+		"calendar"
+	],
+	"author": "Jannis R <mail@jannisr.de>",
+	"homepage": "https://github.com/derhuerst/walk-of-care-ics-service",
+	"repository": "derhuerst/walk-of-care-ics-service",
+	"bugs": "https://github.com/derhuerst/walk-of-care-ics-service/issues",
+	"license": "ISC",
+	"engines": {
+		"node": ">=12"
+	},
+	"dependencies": {
+	},
+	"scripts": {
+		"start": "node index.js"
+	}
+}
