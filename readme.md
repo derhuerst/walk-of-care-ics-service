@@ -5,6 +5,8 @@
 ![ISC-licensed](https://img.shields.io/github/license/derhuerst/walk-of-care-ics-service.svg)
 [![chat with me on Gitter](https://img.shields.io/badge/chat%20with%20me-on%20gitter-512e92.svg)](https://gitter.im/derhuerst)
 
+[How do I subscribe?](subscribe.md)
+
 
 ## Installation
 
